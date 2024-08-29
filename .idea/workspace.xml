@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac08548e-d15c-45c3-a0f9-83217aa82c06" name="Changes" comment="" />
+    <list default="true" id="ac08548e-d15c-45c3-a0f9-83217aa82c06" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/facturacion/model/java/cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/facturacion/model/java/cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/facturacion/model/java/factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/facturacion/model/java/factura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/facturacion/model/java/itemfactura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/facturacion/model/java/itemfactura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/facturacion/model/java/producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/facturacion/model/java/producto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "juanncarlomurillo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/juanncarlomurillo/replicacionn_javaa.git",
+    "accountId": "822672b9-f550-474e-a0eb-f1d3450f1619"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
